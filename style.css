@@ -58,7 +58,7 @@ ul li{
     z-index:2;
     position: relative;
     letter-spacing:2px;
-    padding-top: 21%;
+    padding-top: 15%;
     color: #343a40;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -89,4 +89,10 @@ ul li{
 
 .containerV.div.img{
     z-index: -100;
+}
+.v1{
+    max-width: 50%;
+}
+.v2{
+    max-width: 20%;
 }
